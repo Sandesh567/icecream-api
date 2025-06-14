@@ -2,183 +2,85 @@
   {
     "id": 1,
     "name": "Vanilla Classic",
-    "image": "https://example.com/images/vanilla.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Sugar",
-      "Vanilla Extract"
-    ],
+    "image": "https://i.imgur.com/VKFKZmT.jpg",
+    "ingredients": ["Milk", "Cream", "Sugar", "Vanilla Extract"],
     "priceNPR": 150
   },
   {
     "id": 2,
     "name": "Chocolate Delight",
-    "image": "https://example.com/images/chocolate.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Cocoa Powder",
-      "Sugar"
-    ],
+    "image": "https://i.imgur.com/Rxa0dv0.jpg",
+    "ingredients": ["Milk", "Cocoa", "Sugar", "Chocolate Chips"],
     "priceNPR": 180
   },
   {
     "id": 3,
-    "name": "Strawberry Swirl",
-    "image": "https://example.com/images/strawberry.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Sugar",
-      "Strawberries"
-    ],
+    "name": "Strawberry Crush",
+    "image": "https://i.imgur.com/WI5C4Wu.jpg",
+    "ingredients": ["Strawberry", "Milk", "Sugar", "Cream"],
     "priceNPR": 170
   },
   {
     "id": 4,
     "name": "Mango Magic",
-    "image": "https://example.com/images/mango.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Sugar",
-      "Mango Puree"
-    ],
+    "image": "https://i.imgur.com/B7nUuUQ.jpg",
+    "ingredients": ["Mango", "Milk", "Sugar"],
     "priceNPR": 160
   },
   {
     "id": 5,
     "name": "Butterscotch Bliss",
-    "image": "https://example.com/images/butterscotch.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Butterscotch",
-      "Sugar"
-    ],
+    "image": "https://i.imgur.com/IaAy96O.jpg",
+    "ingredients": ["Milk", "Cream", "Butterscotch", "Caramel"],
     "priceNPR": 190
   },
   {
     "id": 6,
-    "name": "Pistachio Dream",
-    "image": "https://example.com/images/pistachio.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Sugar",
-      "Pistachios"
-    ],
-    "priceNPR": 200
-  },
-  {
-    "id": 7,
-    "name": "Coffee Crush",
-    "image": "https://example.com/images/coffee.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Coffee",
-      "Sugar"
-    ],
+    "name": "Coffee Mocha",
+    "image": "https://i.imgur.com/FVCbNlU.jpg",
+    "ingredients": ["Milk", "Coffee", "Chocolate", "Sugar"],
     "priceNPR": 185
   },
   {
-    "id": 8,
-    "name": "Cookies & Cream",
-    "image": "https://example.com/images/cookies.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Cookies",
-      "Sugar"
-    ],
-    "priceNPR": 195
-  },
-  {
-    "id": 9,
-    "name": "Mint Choco Chip",
-    "image": "https://example.com/images/mint.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Sugar",
-      "Mint",
-      "Chocolate Chips"
-    ],
-    "priceNPR": 180
-  },
-  {
-    "id": 10,
+    "id": 7,
     "name": "Blueberry Burst",
-    "image": "https://example.com/images/blueberry.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Blueberries",
-      "Sugar"
-    ],
+    "image": "https://i.imgur.com/pY9DoUG.jpg",
+    "ingredients": ["Blueberry", "Cream", "Sugar"],
     "priceNPR": 175
   },
   {
-    "id": 11,
-    "name": "Caramel Ribbon",
-    "image": "https://example.com/images/caramel.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Caramel",
-      "Sugar"
-    ],
-    "priceNPR": 190
-  },
-  {
-    "id": 12,
-    "name": "Almond Fudge",
-    "image": "https://example.com/images/almond.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Almonds",
-      "Chocolate Fudge"
-    ],
+    "id": 8,
+    "name": "Pistachio Dream",
+    "image": "https://i.imgur.com/0D6ZK6u.jpg",
+    "ingredients": ["Pistachio", "Milk", "Sugar"],
     "priceNPR": 200
   },
   {
-    "id": 13,
-    "name": "Tutti Frutti",
-    "image": "https://example.com/images/tutti-frutti.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Tutti Frutti",
-      "Sugar"
-    ],
-    "priceNPR": 170
-  },
-  {
-    "id": 14,
-    "name": "Black Forest",
-    "image": "https://example.com/images/blackforest.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Cherries",
-      "Chocolate",
-      "Sugar"
-    ],
+    "id": 9,
+    "name": "Kulfi Royal",
+    "image": "https://i.imgur.com/W4kFP1P.jpg",
+    "ingredients": ["Milk", "Saffron", "Cardamom", "Dry Fruits"],
     "priceNPR": 210
   },
   {
-    "id": 15,
-    "name": "Hazelnut Heaven",
-    "image": "https://example.com/images/hazelnut.jpg",
-    "ingredients": [
-      "Milk",
-      "Cream",
-      "Hazelnuts",
-      "Sugar"
-    ],
-    "priceNPR": 220
+    "id": 10,
+    "name": "Cookies & Cream",
+    "image": "https://i.imgur.com/1jCbYNa.jpg",
+    "ingredients": ["Milk", "Cookies", "Vanilla", "Sugar"],
+    "priceNPR": 195
+  },
+  {
+    "id": 11,
+    "name": "Mint Choco Chip",
+    "image": "https://i.imgur.com/NB8D3aX.jpg",
+    "ingredients": ["Mint", "Chocolate", "Milk", "Sugar"],
+    "priceNPR": 185
+  },
+  {
+    "id": 12,
+    "name": "Caramel Swirl",
+    "image": "https://i.imgur.com/7DZ0hTJ.jpg",
+    "ingredients": ["Caramel", "Milk", "Sugar", "Cream"],
+    "priceNPR": 190
   }
 ]
