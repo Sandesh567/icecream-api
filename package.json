@@ -2,11 +2,9 @@
   "name": "icecream-api",
   "version": "1.0.0",
   "description": "Ice Cream API deployed on Vercel using serverless functions",
-  "main": "index.js",
   "scripts": {
     "dev": "vercel dev",
-    "build": "echo 'No build step required'",
-    "start": "vercel dev"
+    "build": "echo \"No build step required\""
   },
   "keywords": [],
   "author": "Sandesh",
